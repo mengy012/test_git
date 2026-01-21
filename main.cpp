@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "v5 new" << std::endl;
+    std::cout << "v6 new" << std::endl;
 }
