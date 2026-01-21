@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "v1" << std::endl;
+    std::cout << "v2" << std::endl;
 }
