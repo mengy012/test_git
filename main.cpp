@@ -12,5 +12,5 @@ int main()
     std::cout << "v9 dev" << std::endl;
     std::cout << "v10 dev" << std::endl;
     std::cout << "feature 1" << std::endl;
-    std::cout << feat2 << std::endl;
+    std::cout << "feature 2" << std::endl;
 }
