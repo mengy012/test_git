@@ -13,4 +13,6 @@ int main()
     std::cout << "v10 dev" << std::endl;
     std::cout << "feature 1" << std::endl;
     std::cout << "feature 2" << std::endl;
+    std::cout << "2026年9月16日" << std::endl;
+    
 }
